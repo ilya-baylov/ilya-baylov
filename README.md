@@ -1,12 +1,12 @@
-# Илья
+# Привет, я Илья 👋
 
 **Разработчик приложений и сервисов с ИИ.**
 
 Работаю с документами, поиском, API и языковыми моделями. В своих проектах занимаюсь серверной логикой, интерфейсами и запуском на Linux.
 
-Рассматриваю работу в команде и отдельные проекты. **[Написать в Telegram → @baylov93](https://t.me/baylov93)**
+Рассматриваю работу в команде и отдельные проекты. **[💬 Написать в Telegram — @baylov93](https://t.me/baylov93)**
 
-## Проекты
+## 📂 Проекты
 
 ### [ИИ-помощник по базе знаний](https://github.com/ilya-baylov/knowledge-assistant)
 
@@ -28,7 +28,7 @@
 
 [Попробовать](https://t.me/aiexpertproject_bot) · [Примеры работы](https://github.com/ilya-baylov/ai-expert-pd#примеры-проверки) · [Устройство проекта](https://github.com/ilya-baylov/ai-expert-pd/blob/main/docs/architecture.md)
 
-## Стек
+## 🛠️ Стек
 
 - **Сервер:** Python, FastAPI, aiogram, SQLAlchemy, SQLite.
 - **Интерфейсы:** JavaScript, HTML, CSS, Telegram Mini Apps.

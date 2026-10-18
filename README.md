@@ -8,7 +8,7 @@
 
 ## 📂 Проекты
 
-### [ИИ-помощник по базе знаний](https://github.com/ilya-baylov/knowledge-assistant)
+### [ИИ-помощник](https://github.com/ilya-baylov/ai-pomoshnik)
 
 Внутренний Telegram-помощник: находит ответы в документах компании, принимает голосовые вопросы и учитывает контекст разговора.
 
@@ -16,17 +16,17 @@
 
 Собрал загрузку документов, гибридный поиск, подготовку ответов и управление доступом. Код открыт: есть инструкция запуска, демобаза, автоматические тесты и проверка в GitHub Actions.
 
-[Код и запуск](https://github.com/ilya-baylov/knowledge-assistant#запуск) · [Проверки](https://github.com/ilya-baylov/knowledge-assistant/actions) · [Разбор исправления](https://github.com/ilya-baylov/knowledge-assistant/blob/main/docs/evidence-filter.md)
+[Код и запуск](https://github.com/ilya-baylov/ai-pomoshnik#запуск) · [Проверки](https://github.com/ilya-baylov/ai-pomoshnik/actions) · [Разбор исправления](https://github.com/ilya-baylov/ai-pomoshnik/blob/main/docs/evidence-filter.md)
 
 [Открыть бота](https://t.me/SAXAP_ai_bot) — рабочий доступ выдаёт администратор.
 
-### [Ai-Expert · Эксперт ПД](https://github.com/ilya-baylov/ai-expert-pd)
+### [Эксперт ПД](https://github.com/ilya-baylov/expert-pd)
 
 Проверяет проектную документацию перед подачей: находит расхождения, показывает исходные страницы и собирает замечания в отчёт.
 
 Собрал обработку документов, проверки, Telegram-бота и веб-приложение. Числа проверяются кодом; модели используются для разбора текста и изображений. Результат связан с конкретной версией документа, поэтому можно вернуться к источнику замечания.
 
-[Попробовать](https://t.me/aiexpertproject_bot) · [Примеры работы](https://github.com/ilya-baylov/ai-expert-pd#примеры-проверки) · [Устройство проекта](https://github.com/ilya-baylov/ai-expert-pd/blob/main/docs/architecture.md)
+[Попробовать](https://t.me/aiexpertproject_bot) · [Примеры работы](https://github.com/ilya-baylov/expert-pd#примеры-проверки) · [Устройство проекта](https://github.com/ilya-baylov/expert-pd/blob/main/docs/architecture.md)
 
 ## 🛠️ Стек
 
